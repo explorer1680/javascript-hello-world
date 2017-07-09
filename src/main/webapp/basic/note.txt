@@ -1,0 +1,7 @@
+Note 1:
+When you change 
+<script src="..."></script> to 
+<script src="..."/>
+
+it will not work.
+
