@@ -1,3 +1,5 @@
+
+
 Note 1:
 When you change 
 <script src="..."></script> to 
@@ -5,3 +7,26 @@ When you change
 
 it will not work.
 
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+1. data type:
+String, number, Array, boolean, Object
+Basically, anything. Everything in JavaScript is an object, and can be stored in a variable. Keep this in mind as you learn.
+
+2. comment:
+/*
+...
+*/
+
+or
+//
+
+3. Operators:
+equality: ===
+Not: !
+does not equal: !==
+
+4. define function:
+function myfun(p1,p2){
+...
+} 
