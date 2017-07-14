@@ -31,4 +31,11 @@ function myfun(p1,p2){
 ...
 }
 
-5. in html, the javascript must be placed inside <script> ...</script> 
+5. in html, the javascript must be placed inside <script> ...</script>
+
+6. when variable is declared, it has a value "undefined"
+
+7. to make scripts works, you have to put it on the end.
+
+8. "5" + 2 + 3 and 2 + 3 + "5" has different result.
+
