@@ -29,4 +29,6 @@ does not equal: !==
 4. define function:
 function myfun(p1,p2){
 ...
-} 
+}
+
+5. in html, the javascript must be placed inside <script> ...</script> 
