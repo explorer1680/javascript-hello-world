@@ -1,0 +1,4 @@
+== vs ===
+https://appendto.com/2016/02/vs-javascript-abstract-vs-strict-equality/
+
+when you using "typeof", the [1,2,3] or new Array["a","b","c"] return "object" not "array".

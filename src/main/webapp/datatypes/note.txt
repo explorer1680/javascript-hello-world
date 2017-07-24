@@ -1,0 +1,14 @@
+The typeof operator can return one of these primitive types:
+
+string
+number
+boolean
+null
+undefined
+
+The typeof operator can return one of two complex types:
+
+function
+object
+
+what means "null"?
