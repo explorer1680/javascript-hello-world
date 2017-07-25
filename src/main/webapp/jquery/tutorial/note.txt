@@ -1,0 +1,36 @@
+jQuery CDN (Content Delivery Network):
+
+Google CDN:
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+
+jQuery Syntax:
+Basic syntax is: $(selector).action()
+
+A $ sign to define/access jQuery
+A (selector) to "query (or find)" HTML elements
+A jQuery action() to be performed on the element(s)
+
+
+The Document Ready Event:
+$(document).ready(function(){
+
+   // jQuery methods go here...
+
+});
+
+It is good practice to wait for the document to be fully loaded and ready before working with it.
+This also allows you to have your JavaScript code before the body of your document, in the head section.
+
+remember the example in js/basic? On note.txt,
+"7. to make scripts works, you have to put it on the end."
+
+The jQuery team has also created an even shorter method for the document ready event:
+
+$(function(){
+
+   // jQuery methods go here...
+
+});
